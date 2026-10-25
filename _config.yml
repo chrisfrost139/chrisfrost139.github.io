@@ -1,6 +1,6 @@
+title: "Frostframes"
+description: "It's about the number of images per second. Not the things around your windows."
 remote_theme: pages-themes/slate@v0.2.0
+markdown: CommonMarkGhPages
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-title: [Frostframes]
-description: [It's about the number of images per second. Not the things around your windows.]
