@@ -3,3 +3,18 @@ description: "It's about the number of images per second. Not the things around 
 remote_theme: just-the-docs/just-the-docs
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+callouts:
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+  caution:
+    title: Caution
+    color: orange
+  success:
+    title: Success
+    color: green
+  highlight:
+    color: yellow # If title is omitted, only the colored block renders without a header
