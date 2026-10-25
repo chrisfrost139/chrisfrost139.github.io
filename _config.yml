@@ -1,6 +1,6 @@
-remote_theme: pages-themes/merlot@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: [Frosframes]
-description: [It's about the number of images per second, no the things around your windows.]
+title: [Frostframes]
+description: [It's about the number of images per second, not the things around your windows.]
